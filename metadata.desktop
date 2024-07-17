@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=GruvBoxD SDDM
+Description=A GruvBox Dark Theme for SDDM
+Author=beerpongmanog
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/beerpongmanog/gruvbox-dark-sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=gruvbox-dark-sddm
+
